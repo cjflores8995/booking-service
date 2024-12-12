@@ -1,0 +1,1 @@
+previamente se debe tener configurado mysql y tener la base de datos creada
